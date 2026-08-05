@@ -1,0 +1,3 @@
+export const DEFAULT_CLASS_PLAY_PLAYER_LIMIT = 30;
+export const CLASS_PLAY_NAME_MAX_LENGTH = 20;
+export const CLASS_PLAY_CODE_LENGTH = 6;
